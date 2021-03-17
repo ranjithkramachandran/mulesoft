@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="devopsFlow" doc:id="b192f78b-7858-4e81-8335-569023e3c1c1" >
+		<set-payload value="payload" doc:name="Set Payload" doc:id="44ae7d4f-4b94-4f60-be2d-465dc62b8053" />
+	</flow>
+</mule>
