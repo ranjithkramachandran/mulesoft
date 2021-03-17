@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>devops</artifactId>
+	<artifactId>devops-new-change</artifactId>
     <version>1.0.2</version>
     <packaging>mule-application</packaging>
 
